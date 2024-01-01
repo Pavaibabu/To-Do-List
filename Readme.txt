@@ -10,7 +10,7 @@ Tasks are saved locally using the localStorage API, so they remain even after re
 Getting Started
 To run the web app, follow these steps:
 
-Clone this repository to your local machine using git clone https://github.com/your-username/your-repo.git.
+Clone this repository to your local machine using git clone https://github.com/Pavaibabu/To-Do-List.git
 
 Open the index.html file in your preferred web browser.
 
